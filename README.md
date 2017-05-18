@@ -20,4 +20,4 @@ Bootstrap version: 4.0.0-alpha.6
 Usage:
 1. Run `npm install` (only first time) in cmd/terminal to install project dependencies
 2. Run `gulp` in cmd/terminal for automated file building on save and live web server.
-3.` Src` are source files, `public` are live site deploy files, images go in `public/img`.
+3. ` Src` are source files, `public` are live site deploy files, images go in `public/img`.
